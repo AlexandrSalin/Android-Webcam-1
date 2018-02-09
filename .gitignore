@@ -30,3 +30,5 @@ local.gradle
 .Trashes
 ehthumbs.db
 Thumbs.db
+*.iml
+.idea
